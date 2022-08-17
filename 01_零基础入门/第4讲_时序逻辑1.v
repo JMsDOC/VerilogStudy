@@ -88,9 +88,9 @@ initial begin
 	#600 	$stop;
 end
 
-endmodule
+endmodule 
 
-//计数器设计
+//计数器设计/
 //伪随机码发生器设计
 //触发器的敏感变量为时钟沿和复位沿
 //时序逻辑的代码结构
